@@ -11,6 +11,14 @@
 <br><br>
 
 ## 흐름도
+![수어인식흐름도](https://github.com/user-attachments/assets/c0196e27-c819-42bb-a2f8-f4f92a723b47)
+
+<br><br>
+
+## 데이터셋
+
+
+
 
 
 
