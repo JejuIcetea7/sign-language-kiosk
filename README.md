@@ -1,6 +1,6 @@
-# sign-language-kiosk
-> LSTM, Mediapipe를 이용한 수어번역 모델<br><br>
-> ![불고기](https://github.com/user-attachments/assets/4a76571a-91cd-433b-a8ab-17fe4578523c)
+# LSTM과 MediaPipe를 이용한 수어 단어 번역
+
+![불고기](https://github.com/user-attachments/assets/4a76571a-91cd-433b-a8ab-17fe4578523c)
 
 
 <br><br>
