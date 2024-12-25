@@ -37,7 +37,7 @@
 <br><br>
 
 ## 학습결과
-![학습결과](https://github.com/user-attachments/assets/8535ec0b-0392-458d-9802-1133f0164b55)
+![학습결과](https://github.com/user-attachments/assets/da636476-8679-4013-8411-dda021fa924f)
 
 <br><br>
 
